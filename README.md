@@ -7,8 +7,8 @@ Recently, I developed [Reverb](https://github.com/reverb-app), an open-source, e
 ### Skills
 | Category | Technology |
 | ---- | --- |
-| Languages | JavaScript, TypeScript, Ruby, Golang, C# |
+| Languages | JavaScript, TypeScript, Ruby, Golang, C#, Python |
 | Web Development | Node.js, Exress.js, Sinatra, React, CSS, HTML |
 | Databases | SQL, PostgreSQL, MongoDB |
 | Cloud | AWS, Digital Ocean |
-| Other | Git/Github, Docker, Nginx, Jest, Minitest, .NET, RESTful APIs |
+| Other | Git/Github, Docker, Nginx, Jest, Minitest, .NET, RESTful APIs, VSCode |
