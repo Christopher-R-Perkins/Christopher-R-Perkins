@@ -1,14 +1,16 @@
-### Hey all, Christopher here 👋
+### Hey, I'm Christopher 👋
 
-I am a full-stack software engineer with a couple years in the tech industry. I like solving problems and software gives me a vehicle to do so.
+I'm a full-stack software engineer with a backend focus. I care about clean abstractions, dev tools that don’t fight you, and systems that are easier to change than to break.
 
-Recently, I developed [Reverb](https://github.com/reverb-app), an open-source, event-driven, asynchronous workflow engine that abstracts away the logic and infrastructure developers need to orchestrate complex background tasks. Please check out the [case study](https://reverb-app.github.io) if you are interested in learning more.
+Along the way, I’ve migrated ETL jobs to ECS Fargate, resolved backend memory crashes, and led the adoption of AI-powered features using OpenAI and vector search. I’ve contributed to open source as well, including ZenML’s [VS Code extension](https://www.zenml.io/blog/dag-visualization-vscode-extension) and [Reverb](https://github.com/reverb-app), a developer-first workflow engine for building asynchronous systems.  
+➡️ Check out the [Reverb case study](https://reverb-app.github.io) for a deeper dive.
 
-### Skills
-| Category | Technology |
-| ---- | --- |
-| Languages | JavaScript, TypeScript, Ruby, Golang, C#, Python |
-| Web Development | Node.js, Exress.js, Sinatra, React, CSS, HTML |
-| Databases | SQL, PostgreSQL, MongoDB |
-| Cloud | AWS, Digital Ocean |
-| Other | Git/Github, Docker, Nginx, Jest, Minitest, .NET, RESTful APIs, VSCode |
+### 🛠 Skills
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Go, TypeScript, Python, Ruby, C# |
+| **Web** | React, Next.js, FastAPI, Express.js, Sinatra |
+| **Databases** | PostgreSQL, MongoDB |
+| **Cloud & Infra** | AWS (Lambda, ECS, CDK, CloudFormation, IAM), Docker |
+| **AI & Agents** | OpenAI API, vector search, Pydantic AI, RAG |
+| **Tooling** | GitHub, GitHub Actions, VS Code, Jest, Minitest, Stripe |
